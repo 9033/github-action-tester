@@ -36,5 +36,5 @@ jobs:
           echo test, and deploy your project.
           git --version
           node -v
-          npm i npm@">=7.21"
-          npm -v
+          sudo npm i npm@">=7.21"
+          sudo npm -v
